@@ -21,24 +21,30 @@ var printD = () => {
         resolve('d')
     })
 }
+var test = () => {
+    return new Promise((resolve,reject) =>{
+        printA().then((ans) => {
+            console.log(ans)
+            return printB()
+        }).then((ans) => {
+            resolve(ans)
+            console.log(ans)
+            if(ans === 'b'){
+                console.log('will skipp')
+                // throw ('this is error')
+                return ('skipped!')
+            }
+            return printC()
+        }).then((ans) => {
+            console.log(ans)
+            return printD()
+        }).then((ans) => {
+            console.log(ans)
+            console.log('done')
+        }).catch((e) => {
+            console.log(e)
+        })
+    })
+}
 
-printA().then((ans) => {
-    console.log(ans)
-    return printB()
-}).then((ans) => {
-    console.log(ans)
-    if(ans === 'b'){
-        console.log('will skipp')
-        // throw ('this is error')
-        return ('skipped!')
-    }
-    return printC()
-}).then((ans) => {
-    console.log(ans)
-    return printD()
-}).then((ans) => {
-    console.log(ans)
-    console.log('done')
-}).catch((e) => {
-    console.log(e)
-})
+test()
