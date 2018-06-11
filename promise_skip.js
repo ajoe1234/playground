@@ -21,20 +21,29 @@ var printD = () => {
         resolve('d')
     })
 }
+
+
+
 var test = () => {
     return new Promise((resolve,reject) =>{
         printA().then((ans) => {
             console.log(ans)
             return printB()
         }).then((ans) => {
-            resolve(ans)
+            // resolve(ans)
             console.log(ans)
-            if(ans === 'b'){
+            if(ans === 'c'){
                 console.log('will skipp')
                 // throw ('this is error')
                 return ('skipped!')
             }
-            return printC()
+            return printA().then((a1) => {
+                console.log(a1)
+                return printC().then((a2) =>{
+                    console.log(a2)
+                    return 1
+                })
+            })
         }).then((ans) => {
             console.log(ans)
             return printD()
