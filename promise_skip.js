@@ -29,6 +29,7 @@ printA().then((ans) => {
     console.log(ans)
     if(ans === 'b'){
         console.log('will skipp')
+        // throw ('this is error')
         return ('skipped!')
     }
     return printC()
