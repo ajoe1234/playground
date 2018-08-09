@@ -40,7 +40,7 @@ var test = () => {
             return printA().then((a1) => {
                 console.log(a1)
                 return printC().then((a2) =>{
-                    console.log(a2)
+                    console.log(a1 + a2)
                     return 1
                 })
             })

@@ -1,0 +1,3199 @@
+*PERSON psc01;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc01@3ds.com
++ATTRIBUTE First Name;psc01
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc01
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc02;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc02@3ds.com
++ATTRIBUTE First Name;psc02
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc02
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc03;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc03@3ds.com
++ATTRIBUTE First Name;psc03
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc03
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc04;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc04@3ds.com
++ATTRIBUTE First Name;psc04
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc04
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc05;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc05@3ds.com
++ATTRIBUTE First Name;psc05
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc05
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc06;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc06@3ds.com
++ATTRIBUTE First Name;psc06
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc06
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc07;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc07@3ds.com
++ATTRIBUTE First Name;psc07
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc07
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc08;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc08@3ds.com
++ATTRIBUTE First Name;psc08
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc08
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc09;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc09@3ds.com
++ATTRIBUTE First Name;psc09
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc09
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc010;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc010@3ds.com
++ATTRIBUTE First Name;psc010
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc010
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc11;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc11@3ds.com
++ATTRIBUTE First Name;psc11
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc11
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc12;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc12@3ds.com
++ATTRIBUTE First Name;psc12
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc12
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc13;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc13@3ds.com
++ATTRIBUTE First Name;psc13
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc13
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc14;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc14@3ds.com
++ATTRIBUTE First Name;psc14
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc14
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc15;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc15@3ds.com
++ATTRIBUTE First Name;psc15
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc15
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc16;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc16@3ds.com
++ATTRIBUTE First Name;psc16
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc16
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc17;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc17@3ds.com
++ATTRIBUTE First Name;psc17
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc17
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc18;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc18@3ds.com
++ATTRIBUTE First Name;psc18
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc18
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc19;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc19@3ds.com
++ATTRIBUTE First Name;psc19
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc19
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc20;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc20@3ds.com
++ATTRIBUTE First Name;psc20
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc20
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc21;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc21@3ds.com
++ATTRIBUTE First Name;psc21
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc21
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc22;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc22@3ds.com
++ATTRIBUTE First Name;psc22
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc22
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc23;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc23@3ds.com
++ATTRIBUTE First Name;psc23
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc23
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc24;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc24@3ds.com
++ATTRIBUTE First Name;psc24
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc24
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc25;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc25@3ds.com
++ATTRIBUTE First Name;psc25
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc25
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc26;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc26@3ds.com
++ATTRIBUTE First Name;psc26
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc26
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc27;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc27@3ds.com
++ATTRIBUTE First Name;psc27
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc27
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc28;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc28@3ds.com
++ATTRIBUTE First Name;psc28
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc28
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc29;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc29@3ds.com
++ATTRIBUTE First Name;psc29
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc29
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc30;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc30@3ds.com
++ATTRIBUTE First Name;psc30
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc30
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc31;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc31@3ds.com
++ATTRIBUTE First Name;psc31
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc31
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc32;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc32@3ds.com
++ATTRIBUTE First Name;psc32
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc32
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc33;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc33@3ds.com
++ATTRIBUTE First Name;psc33
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc33
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc34;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc34@3ds.com
++ATTRIBUTE First Name;psc34
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc34
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc35;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc35@3ds.com
++ATTRIBUTE First Name;psc35
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc35
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc36;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc36@3ds.com
++ATTRIBUTE First Name;psc36
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc36
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc37;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc37@3ds.com
++ATTRIBUTE First Name;psc37
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc37
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc38;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc38@3ds.com
++ATTRIBUTE First Name;psc38
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc38
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc39;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc39@3ds.com
++ATTRIBUTE First Name;psc39
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc39
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc40;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc40@3ds.com
++ATTRIBUTE First Name;psc40
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc40
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc41;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc41@3ds.com
++ATTRIBUTE First Name;psc41
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc41
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc42;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc42@3ds.com
++ATTRIBUTE First Name;psc42
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc42
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc43;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc43@3ds.com
++ATTRIBUTE First Name;psc43
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc43
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc44;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc44@3ds.com
++ATTRIBUTE First Name;psc44
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc44
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc45;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc45@3ds.com
++ATTRIBUTE First Name;psc45
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc45
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc46;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc46@3ds.com
++ATTRIBUTE First Name;psc46
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc46
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc47;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc47@3ds.com
++ATTRIBUTE First Name;psc47
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc47
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc48;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc48@3ds.com
++ATTRIBUTE First Name;psc48
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc48
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc49;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc49@3ds.com
++ATTRIBUTE First Name;psc49
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc49
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc50;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc50@3ds.com
++ATTRIBUTE First Name;psc50
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc50
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc51;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc51@3ds.com
++ATTRIBUTE First Name;psc51
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc51
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc52;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc52@3ds.com
++ATTRIBUTE First Name;psc52
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc52
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc53;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc53@3ds.com
++ATTRIBUTE First Name;psc53
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc53
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc54;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc54@3ds.com
++ATTRIBUTE First Name;psc54
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc54
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc55;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc55@3ds.com
++ATTRIBUTE First Name;psc55
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc55
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc56;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc56@3ds.com
++ATTRIBUTE First Name;psc56
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc56
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc57;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc57@3ds.com
++ATTRIBUTE First Name;psc57
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc57
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc58;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc58@3ds.com
++ATTRIBUTE First Name;psc58
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc58
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc59;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc59@3ds.com
++ATTRIBUTE First Name;psc59
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc59
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc60;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc60@3ds.com
++ATTRIBUTE First Name;psc60
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc60
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc61;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc61@3ds.com
++ATTRIBUTE First Name;psc61
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc61
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc62;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc62@3ds.com
++ATTRIBUTE First Name;psc62
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc62
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc63;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc63@3ds.com
++ATTRIBUTE First Name;psc63
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc63
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc64;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc64@3ds.com
++ATTRIBUTE First Name;psc64
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc64
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc65;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc65@3ds.com
++ATTRIBUTE First Name;psc65
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc65
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc66;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc66@3ds.com
++ATTRIBUTE First Name;psc66
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc66
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc67;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc67@3ds.com
++ATTRIBUTE First Name;psc67
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc67
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc68;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc68@3ds.com
++ATTRIBUTE First Name;psc68
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc68
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc69;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc69@3ds.com
++ATTRIBUTE First Name;psc69
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc69
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc70;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc70@3ds.com
++ATTRIBUTE First Name;psc70
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc70
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc71;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc71@3ds.com
++ATTRIBUTE First Name;psc71
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc71
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc72;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc72@3ds.com
++ATTRIBUTE First Name;psc72
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc72
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc73;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc73@3ds.com
++ATTRIBUTE First Name;psc73
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc73
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc74;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc74@3ds.com
++ATTRIBUTE First Name;psc74
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc74
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc75;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc75@3ds.com
++ATTRIBUTE First Name;psc75
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc75
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc76;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc76@3ds.com
++ATTRIBUTE First Name;psc76
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc76
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc77;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc77@3ds.com
++ATTRIBUTE First Name;psc77
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc77
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc78;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc78@3ds.com
++ATTRIBUTE First Name;psc78
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc78
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc79;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc79@3ds.com
++ATTRIBUTE First Name;psc79
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc79
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc80;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc80@3ds.com
++ATTRIBUTE First Name;psc80
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc80
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc81;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc81@3ds.com
++ATTRIBUTE First Name;psc81
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc81
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc82;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc82@3ds.com
++ATTRIBUTE First Name;psc82
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc82
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc83;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc83@3ds.com
++ATTRIBUTE First Name;psc83
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc83
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc84;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc84@3ds.com
++ATTRIBUTE First Name;psc84
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc84
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc85;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc85@3ds.com
++ATTRIBUTE First Name;psc85
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc85
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc86;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc86@3ds.com
++ATTRIBUTE First Name;psc86
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc86
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc87;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc87@3ds.com
++ATTRIBUTE First Name;psc87
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc87
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc88;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc88@3ds.com
++ATTRIBUTE First Name;psc88
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc88
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc89;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc89@3ds.com
++ATTRIBUTE First Name;psc89
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc89
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc90;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc90@3ds.com
++ATTRIBUTE First Name;psc90
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc90
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc91;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc91@3ds.com
++ATTRIBUTE First Name;psc91
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc91
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc92;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc92@3ds.com
++ATTRIBUTE First Name;psc92
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc92
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc93;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc93@3ds.com
++ATTRIBUTE First Name;psc93
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc93
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc94;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc94@3ds.com
++ATTRIBUTE First Name;psc94
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc94
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc95;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc95@3ds.com
++ATTRIBUTE First Name;psc95
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc95
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc96;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc96@3ds.com
++ATTRIBUTE First Name;psc96
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc96
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc97;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc97@3ds.com
++ATTRIBUTE First Name;psc97
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc97
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc98;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc98@3ds.com
++ATTRIBUTE First Name;psc98
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc98
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc99;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc99@3ds.com
++ATTRIBUTE First Name;psc99
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc99
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc100;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc100@3ds.com
++ATTRIBUTE First Name;psc100
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc100
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc101;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc101@3ds.com
++ATTRIBUTE First Name;psc101
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc101
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc102;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc102@3ds.com
++ATTRIBUTE First Name;psc102
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc102
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc103;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc103@3ds.com
++ATTRIBUTE First Name;psc103
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc103
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc104;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc104@3ds.com
++ATTRIBUTE First Name;psc104
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc104
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc105;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc105@3ds.com
++ATTRIBUTE First Name;psc105
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc105
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc106;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc106@3ds.com
++ATTRIBUTE First Name;psc106
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc106
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc107;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc107@3ds.com
++ATTRIBUTE First Name;psc107
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc107
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc108;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc108@3ds.com
++ATTRIBUTE First Name;psc108
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc108
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc109;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc109@3ds.com
++ATTRIBUTE First Name;psc109
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc109
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc110;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc110@3ds.com
++ATTRIBUTE First Name;psc110
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc110
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc111;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc111@3ds.com
++ATTRIBUTE First Name;psc111
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc111
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc112;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc112@3ds.com
++ATTRIBUTE First Name;psc112
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc112
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc113;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc113@3ds.com
++ATTRIBUTE First Name;psc113
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc113
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc114;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc114@3ds.com
++ATTRIBUTE First Name;psc114
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc114
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc115;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc115@3ds.com
++ATTRIBUTE First Name;psc115
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc115
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc116;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc116@3ds.com
++ATTRIBUTE First Name;psc116
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc116
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc117;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc117@3ds.com
++ATTRIBUTE First Name;psc117
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc117
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc118;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc118@3ds.com
++ATTRIBUTE First Name;psc118
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc118
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc119;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc119@3ds.com
++ATTRIBUTE First Name;psc119
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc119
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc120;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc120@3ds.com
++ATTRIBUTE First Name;psc120
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc120
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc121;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc121@3ds.com
++ATTRIBUTE First Name;psc121
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc121
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc122;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc122@3ds.com
++ATTRIBUTE First Name;psc122
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc122
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc123;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc123@3ds.com
++ATTRIBUTE First Name;psc123
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc123
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc124;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc124@3ds.com
++ATTRIBUTE First Name;psc124
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc124
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc125;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc125@3ds.com
++ATTRIBUTE First Name;psc125
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc125
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc126;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc126@3ds.com
++ATTRIBUTE First Name;psc126
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc126
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc127;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc127@3ds.com
++ATTRIBUTE First Name;psc127
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc127
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc128;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc128@3ds.com
++ATTRIBUTE First Name;psc128
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc128
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc129;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc129@3ds.com
++ATTRIBUTE First Name;psc129
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc129
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc130;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc130@3ds.com
++ATTRIBUTE First Name;psc130
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc130
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc131;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc131@3ds.com
++ATTRIBUTE First Name;psc131
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc131
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc132;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc132@3ds.com
++ATTRIBUTE First Name;psc132
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc132
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc133;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc133@3ds.com
++ATTRIBUTE First Name;psc133
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc133
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc134;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc134@3ds.com
++ATTRIBUTE First Name;psc134
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc134
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc135;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc135@3ds.com
++ATTRIBUTE First Name;psc135
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc135
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc136;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc136@3ds.com
++ATTRIBUTE First Name;psc136
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc136
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc137;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc137@3ds.com
++ATTRIBUTE First Name;psc137
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc137
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc138;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc138@3ds.com
++ATTRIBUTE First Name;psc138
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc138
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc139;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc139@3ds.com
++ATTRIBUTE First Name;psc139
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc139
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc140;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc140@3ds.com
++ATTRIBUTE First Name;psc140
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc140
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc141;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc141@3ds.com
++ATTRIBUTE First Name;psc141
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc141
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc142;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc142@3ds.com
++ATTRIBUTE First Name;psc142
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc142
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc143;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc143@3ds.com
++ATTRIBUTE First Name;psc143
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc143
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc144;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc144@3ds.com
++ATTRIBUTE First Name;psc144
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc144
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc145;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc145@3ds.com
++ATTRIBUTE First Name;psc145
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc145
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc146;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc146@3ds.com
++ATTRIBUTE First Name;psc146
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc146
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc147;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc147@3ds.com
++ATTRIBUTE First Name;psc147
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc147
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc148;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc148@3ds.com
++ATTRIBUTE First Name;psc148
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc148
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc149;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc149@3ds.com
++ATTRIBUTE First Name;psc149
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc149
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc150;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc150@3ds.com
++ATTRIBUTE First Name;psc150
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc150
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc151;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc151@3ds.com
++ATTRIBUTE First Name;psc151
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc151
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc152;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc152@3ds.com
++ATTRIBUTE First Name;psc152
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc152
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc153;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc153@3ds.com
++ATTRIBUTE First Name;psc153
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc153
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc154;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc154@3ds.com
++ATTRIBUTE First Name;psc154
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc154
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc155;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc155@3ds.com
++ATTRIBUTE First Name;psc155
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc155
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc156;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc156@3ds.com
++ATTRIBUTE First Name;psc156
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc156
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc157;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc157@3ds.com
++ATTRIBUTE First Name;psc157
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc157
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc158;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc158@3ds.com
++ATTRIBUTE First Name;psc158
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc158
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc159;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc159@3ds.com
++ATTRIBUTE First Name;psc159
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc159
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc160;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc160@3ds.com
++ATTRIBUTE First Name;psc160
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc160
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc161;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc161@3ds.com
++ATTRIBUTE First Name;psc161
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc161
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc162;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc162@3ds.com
++ATTRIBUTE First Name;psc162
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc162
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc163;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc163@3ds.com
++ATTRIBUTE First Name;psc163
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc163
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc164;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc164@3ds.com
++ATTRIBUTE First Name;psc164
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc164
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc165;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc165@3ds.com
++ATTRIBUTE First Name;psc165
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc165
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc166;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc166@3ds.com
++ATTRIBUTE First Name;psc166
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc166
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc167;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc167@3ds.com
++ATTRIBUTE First Name;psc167
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc167
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc168;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc168@3ds.com
++ATTRIBUTE First Name;psc168
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc168
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc169;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc169@3ds.com
++ATTRIBUTE First Name;psc169
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc169
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc170;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc170@3ds.com
++ATTRIBUTE First Name;psc170
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc170
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc171;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc171@3ds.com
++ATTRIBUTE First Name;psc171
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc171
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc172;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc172@3ds.com
++ATTRIBUTE First Name;psc172
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc172
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc173;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc173@3ds.com
++ATTRIBUTE First Name;psc173
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc173
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc174;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc174@3ds.com
++ATTRIBUTE First Name;psc174
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc174
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc175;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc175@3ds.com
++ATTRIBUTE First Name;psc175
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc175
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc176;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc176@3ds.com
++ATTRIBUTE First Name;psc176
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc176
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc177;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc177@3ds.com
++ATTRIBUTE First Name;psc177
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc177
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc178;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc178@3ds.com
++ATTRIBUTE First Name;psc178
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc178
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc179;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc179@3ds.com
++ATTRIBUTE First Name;psc179
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc179
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc180;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc180@3ds.com
++ATTRIBUTE First Name;psc180
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc180
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc181;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc181@3ds.com
++ATTRIBUTE First Name;psc181
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc181
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc182;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc182@3ds.com
++ATTRIBUTE First Name;psc182
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc182
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc183;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc183@3ds.com
++ATTRIBUTE First Name;psc183
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc183
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc184;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc184@3ds.com
++ATTRIBUTE First Name;psc184
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc184
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc185;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc185@3ds.com
++ATTRIBUTE First Name;psc185
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc185
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc186;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc186@3ds.com
++ATTRIBUTE First Name;psc186
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc186
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc187;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc187@3ds.com
++ATTRIBUTE First Name;psc187
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc187
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc188;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc188@3ds.com
++ATTRIBUTE First Name;psc188
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc188
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc189;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc189@3ds.com
++ATTRIBUTE First Name;psc189
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc189
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc190;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc190@3ds.com
++ATTRIBUTE First Name;psc190
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc190
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc191;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc191@3ds.com
++ATTRIBUTE First Name;psc191
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc191
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc192;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc192@3ds.com
++ATTRIBUTE First Name;psc192
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc192
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc193;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc193@3ds.com
++ATTRIBUTE First Name;psc193
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc193
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc194;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc194@3ds.com
++ATTRIBUTE First Name;psc194
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc194
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc195;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc195@3ds.com
++ATTRIBUTE First Name;psc195
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc195
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc196;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc196@3ds.com
++ATTRIBUTE First Name;psc196
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc196
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc197;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc197@3ds.com
++ATTRIBUTE First Name;psc197
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc197
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc198;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc198@3ds.com
++ATTRIBUTE First Name;psc198
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc198
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc199;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc199@3ds.com
++ATTRIBUTE First Name;psc199
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc199
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
+
+*PERSON psc200;Company Name;$;0
++PASSWORD Passport1
++ATTRIBUTE Country;JPN
++ATTRIBUTE Email Address;psc200@3ds.com
++ATTRIBUTE First Name;psc200
++ATTRIBUTE Icon Mail;FALSE
++ATTRIBUTE JT Viewer Type;None
++ATTRIBUTE Last Name;psc200
++ATTRIBUTE Login Type;Standard
++ATTRIBUTE Originator;admin_platform
++MEMBER Company Name
++CONTEXT VPLMCreator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectAdministrator.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++CONTEXT VPLMProjectLeader.Company Name.Common Space;,;CDR,CSV,IFW,PAU,CFG,MUX,MDG,KPT,PDM,SDV
++PREFERREDCONTEXT VPLMCreator.Company Name.Common Space
