@@ -5,7 +5,7 @@
 const fs = require('fs')
 
 // create 
-var readStringArry = fs.readFileSync('userslist.2users.txt').toString().split('\r\n')
+var readStringArry = fs.readFileSync('userslist.1.txt').toString().split('\r\n')
 var readyToWriteString = readStringArry.map((e) => {
     return '*PERSON ' + e.toLowerCase().split(',')[2] + ';Company Name;$;0\r\n'
          +  '+PASSWORD Passport1\r\n+ATTRIBUTE Country;JPN\r\n' 
