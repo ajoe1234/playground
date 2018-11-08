@@ -57,6 +57,7 @@ var start = (URL_PASS, URL_SPACE, username, password, productName, round) => {
     const URL_PASSPORT_LOGIN = URL_PASS + '/login'
     const URL_GO_TO_SPACE = URL_SPACE + '/common/emxNavigator.jsp?collabSpace=Default'
     const URL_TO_EXPAND = URL_SPACE + '/resources/enopad/navigate/expand?tenant=OnPremise&xrequestedwith=xmlhttprequest'
+    const URL_LOGOUT = URL_PASS + '/logout'
  
     console.log(`[${round}][${username}] Request to ${URL_GET_PARAMS} ...`)
     requestToURL({
@@ -135,17 +136,21 @@ var start = (URL_PASS, URL_SPACE, username, password, productName, round) => {
                 var getParentType = getParent.filter((e) => e.name === 'ds6w:type')[i].value
                 console.log(`[${round}][${username}] expanded : ${getParentLabel} (${getParentType}) : ${resultArray.filter((e) => e.attributes).length - 1} children. [${ans.response.elapsedTime} ms]`)
             } else {
-                // // Check attributes existed
-                // if(resultArray[i].attributes) {
-                //     // Get Children
-                //     var getChild = resultArray[i].attributes
-                //     var getChildLabel = getChild.filter((e) => e.name === 'ds6w:label')[0].value
-                //     var getChildType = getChild.filter((e) => e.name === 'ds6w:type')[0].value
-                //     // console.log(`   |- ${getChildLabel} (${getChildType}) `)
-                // }
+                // Check attributes existed
+                if(resultArray[i].attributes) {
+                    // Get Children
+                    var getChild = resultArray[i].attributes
+                    var getChildLabel = getChild.filter((e) => e.name === 'ds6w:label')[0].value
+                    var getChildType = getChild.filter((e) => e.name === 'ds6w:type')[0].value
+                    console.log(`   |- ${getChildLabel} (${getChildType}) `)
+                }
             }
         })
         // console.log(`[${round}] Request time in ${ans.response.elapsedTime} ms.`)
+        return requestToURL({ 
+            method: 'GET',
+            url: URL_LOGOUT,
+        })
     }).catch((e) => {
         console.log(e)
     })
@@ -153,18 +158,18 @@ var start = (URL_PASS, URL_SPACE, username, password, productName, round) => {
 
 var passport = 'https://nag-infra11.kuma.lab.rnd.3ds.jp:453/3DPassport'
 var space = 'https://nag-infra11.kuma.lab.rnd.3ds.jp/3DSpace'
-// var user = 'wpe1'
+var user = 'wpe1'
 var pass = 'Passport1'
-// var productName = 'Physical Product00000003'
-var productName =  process.argv.slice(2)[0]
+var productName = 'Physical Product00000003'
+// var productName =  process.argv.slice(2)[0]
 
 // Start
-// start(passport,space,user,pass,productName)
+start(passport,space,user,pass,productName)
 
 // Test user
-var users = ['d13','dya2','e4e','eru','gfn','h3h','hf2','hu2','ioe','ite2','jle7','kad','kmo1','kmz','lmt','mal6','mki5','myi2','nsg3','pla1','pph2','ppl','ppl13','q81','qg6','qxr','r5d','rcn16','rg6','rlv','rw8','sbi9','sni4','t94','t9a','thi2','ti8','tma3','tmt2','tsa2','tti1','ttu1','ujf','vbd2','vpw','wmt','wpe1','y5a','yf4','yh3','ynk','yti3','zuv','ama4','ard5','atv','bee','cco3']
-console.log(users.length)
+// var users = ['d13','dya2','e4e','eru','gfn','h3h','hf2','hu2','ioe','ite2','jle7','kad','kmo1','kmz','lmt','mal6','mki5','myi2','nsg3','pla1','pph2','ppl','ppl13','q81','qg6','qxr','r5d','rcn16','rg6','rlv','rw8','sbi9','sni4','t94','t9a','thi2','ti8','tma3','tmt2','tsa2','tti1','ttu1','ujf','vbd2','vpw','wmt','wpe1','y5a','yf4','yh3','ynk','yti3','zuv','ama4','ard5','atv','bee','cco3']
+// console.log(users.length)
 
-for(var i=0;i<100;i++){
-    start(passport,space,users[i%users.length],pass,productName,i+1)
-}
+// for(var i=0;i<200;i++){
+//     start(passport,space,users[i%users.length],pass,productName,i+1)
+// }
