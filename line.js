@@ -2,7 +2,7 @@
 // function to make sum between 2 number
 var sum = (left, right) => {
   // Create empty array for left and right
-  let SIZE = 10000000
+  let SIZE = 100000
   var arr1 = new Array(SIZE)
   var arr2 = new Array(SIZE)
 
@@ -18,13 +18,16 @@ var sum = (left, right) => {
   }
 
   // Initiate digit of left side value to float right on empty array
+  // Parse String to Int by multiple by 1
   lArr.forEach((e, i) => {
-    arr1[(arr1.length - 1) - (lArr.length - 1) + i] = parseInt(e)
+    arr1[(arr1.length - 1) - (lArr.length - 1) + i] = e * 1
   })
 
+
   // Initiate digit of right side value to float right on empty array
+  // Parse String to Int by multiple by 1
   rArr.forEach((e, i) => {
-    arr2[(arr2.length - 1) - (rArr.length - 1) + i] = parseInt(e)
+    arr2[(arr2.length - 1) - (rArr.length - 1) + i] = e * 1
   })
 
   // Start addition
@@ -53,6 +56,7 @@ var sum = (left, right) => {
       }
     }
   }
+
   return output.reverse().join('')
 }
 
@@ -78,7 +82,10 @@ var start = (count, left, right, summary) => {
     left = right
     right = summary
     funcNum++
-    start(count - 1, left, right, summary)
+    // Delay recursive to avoid Maximum call stack size exceeded
+    setTimeout(function () {
+      start(count - 1, left, right, summary)
+    }, 0)
   } else {
     // console.log(summary)
   }
@@ -86,7 +93,4 @@ var start = (count, left, right, summary) => {
 
 console.log(`f(0) : ${fn0}`)
 console.log(`f(1) : ${fn1}`)
-// Time counting
-console.time("run")
-start(n-1, fn0, fn1, null)
-console.timeEnd("run")
+start(n - 1, fn0, fn1, null)
