@@ -180,6 +180,9 @@ calculate(n, fn0, fn1, null, current).then((result) => {
 // Solution will be this equation : 2^(n-1) 
 //    when n = spaces away from starting point
 
+// Input spaces away from starting point
+var n = 610
+
 var MultipleBySum = (left, right) => {
   // Create empty array for left and right
   let SIZE = 10000
@@ -263,9 +266,6 @@ var findPossibleWay = (n) => {
     resolve(output)
   })
 }
-
-// Input spaces away from starting point
-var n = 610
 
 // Exponent value of power 
 var exponent = n-1
